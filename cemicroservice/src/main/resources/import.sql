@@ -1,0 +1,3 @@
+insert into exchange_value (id,currency_exchange_from,currency_exchange_to,conversionmultiple,environment) values(1001,'USD','INR',72,'');
+insert into exchange_value(id,currency_exchange_from,currency_exchange_to,conversionmultiple,environment) values(1002,'EUR','INR',70,'');
+insert into exchange_value(id,currency_exchange_from,currency_exchange_to,conversionmultiple,environment) values(1003,'AUD','INR',65,'');
